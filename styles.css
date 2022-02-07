@@ -1,3 +1,13 @@
-/* styles.css */
+body {
+    margin:0;
+}
 
-/* Add styles here to customize the appearance of your app */
+html {
+    margin: 0;
+    overflow: hidden;
+}
+
+
+canvas::before {
+    background: black;
+}
